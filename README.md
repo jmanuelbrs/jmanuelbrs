@@ -11,7 +11,7 @@ I am **Juan Manuel Bello**, i am a **Software Engineer @ fadosolutions**. I am e
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmanuelbrs&layout=compact&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmanuelbrs&langs_count=8)
 <!--
 [![Juan's github stats](https://github-readme-stats.vercel.app/api?username=jmanuelbrs&show_icons=true&hide_border=true&theme=dark)
 -->
