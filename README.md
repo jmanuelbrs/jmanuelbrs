@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am **Juan Manuel Bello**, i am a **Software Engineer @ fadosolutions**. I am experienced **BackEnd Developer** building integrations with java and Apache Camel
+I am **Juan Manuel Bello**, i am a **Software Engineer**. I am experienced **Java Developer** building integrations with Apache Camel
 
 ---
 
-- 🌱 I’m currently learning **devops**
+- 🌱 I’m currently learning TypeScript, Angular, aws, devops
 - ⌨️ I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
   **[twitter.com/manuelbrs](https://twitter.com/manuelbrs)**
